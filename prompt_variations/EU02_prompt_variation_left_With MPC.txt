@@ -1,0 +1,9 @@
+Here's a rephrased version of the original prompt:
+
+Given the Java {{compliance_level}} source code:
+```
+{{source_code}}
+```
+A {{vulnerability_name}} vulnerability was detected at {{vulnerability_location}}. 
+
+Create a list of pseudo-code edits to repair this vulnerability.

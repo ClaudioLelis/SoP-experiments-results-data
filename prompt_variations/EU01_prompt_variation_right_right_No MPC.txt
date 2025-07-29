@@ -1,0 +1,26 @@
+You have been provided with a Java source code file, denoted as `original_code.java`, which has been carefully crafted to adhere to the {{compliance_level}} standards. The content of this file is presented below for your thorough examination:
+
+```
+{{source_code}}
+```
+
+Upon conducting an exhaustive and meticulous review of the provided Java code, a significant security vulnerability has been identified, which poses a substantial threat to the overall integrity and security of the software. The details of this vulnerability are as follows:
+
+Vulnerability Name: {{vulnerability_name}}
+Vulnerability Description: {{vulnerability_description}}
+
+Further in-depth analysis has pinpointed the exact location(s) within the source code where the vulnerability is present, thus allowing for a targeted approach to rectification:
+
+Location in Code: {{vulnerability_location}}
+
+Your primary objective is to create a comprehensive, step-by-step action edit plan in pseudo-code format, specifically designed to rectify the identified vulnerability in the Java source code. It is essential to note that your response should focus exclusively on addressing the vulnerable code segments and must not include any redundant or unaffected parts of the code. This focused approach will ensure that the proposed solution is both efficient and effective in mitigating the identified vulnerability.
+
+When developing your edit plan, please adhere to the following guidelines to ensure clarity, precision, and effectiveness:
+
+1. Be precise and meticulous in your approach, ensuring that each step is clearly defined, easy to understand, and free from ambiguity. This will enable seamless implementation of the proposed solution.
+2. Provide a detailed, step-by-step guide on the necessary edits required to repair the vulnerability. This should include any relevant context, explanations, or justifications to support the proposed changes.
+3. Express your solution in a pseudo-code format, which will serve as a blueprint for implementing the necessary changes to the Java source code. This format should be clear, concise, and easily translatable into actual Java code.
+
+Your final output should take the form of a concise list of EDITs that, when applied, will effectively mitigate the identified vulnerability. Each EDIT should be presented in a clear and structured manner, providing a logical and easy-to-follow sequence of steps for implementation.
+
+By following these guidelines and maintaining a focused approach, you will be able to create a comprehensive and effective action edit plan that successfully addresses the identified vulnerability and enhances the overall security and integrity of the Java source code.

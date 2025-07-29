@@ -1,0 +1,24 @@
+You are provided with a Java source code file, `original_code.java`, that adheres to the {{compliance_level}} standards. The content of this file is as follows:
+
+```
+{{source_code}}
+```
+
+Upon conducting a thorough examination of the provided Java code, a significant security vulnerability was identified. The details of this vulnerability are as follows:
+
+Vulnerability Name: {{vulnerability_name}}
+Vulnerability Description: {{vulnerability_description}}
+
+Further analysis has pinpointed the exact location(s) within the source code where the vulnerability is present:
+
+Location in Code: {{vulnerability_location}}
+
+Your task is to create a comprehensive action edit plan in pseudo-code format, specifically designed to rectify the identified vulnerability in the Java source code. It is essential to note that your response should focus exclusively on addressing the vulnerable code segments and must not include any redundant or unaffected parts of the code.
+
+When developing your edit plan, please adhere to the following guidelines:
+
+1. Be precise and meticulous in your approach, ensuring that each step is clearly defined and easy to understand.
+2. Provide a detailed, step-by-step guide on the necessary edits required to repair the vulnerability.
+3. Express your solution in a pseudo-code format, which will serve as a blueprint for implementing the necessary changes to the Java source code.
+
+Your final output should take the form of a concise list of EDITs that, when applied, will effectively mitigate the identified vulnerability.

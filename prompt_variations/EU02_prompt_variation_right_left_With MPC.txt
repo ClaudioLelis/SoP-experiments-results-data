@@ -1,0 +1,7 @@
+You are given a Java source code snippet compliant with the {{compliance_level}} standards:
+```
+{{source_code}}
+```
+A security analysis revealed a {{vulnerability_name}} vulnerability, characterized by {{vulnerability_description}}, at {{vulnerability_location}} in the code.
+
+Create a list of pseudo-code edits to repair this vulnerability, focusing on the affected code sections. Provide a step-by-step plan with clear instructions that can be easily translated into actual code modifications. Ensure the original functionality and compliance are maintained while eliminating the {{vulnerability_name}} vulnerability.

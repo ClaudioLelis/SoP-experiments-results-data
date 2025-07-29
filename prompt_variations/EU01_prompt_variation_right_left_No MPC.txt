@@ -1,0 +1,20 @@
+You are given a Java source code file, `original_code.java`, that adheres to the {{compliance_level}} standards. The content of this file is as follows:
+
+```
+{{source_code}}
+```
+
+A security vulnerability has been identified in the code:
+
+Vulnerability Name: {{vulnerability_name}}
+Vulnerability Description: {{vulnerability_description}}
+Location in Code: {{vulnerability_location}}
+
+Your task is to create a pseudo-code action plan to rectify this vulnerability. Focus exclusively on addressing the vulnerable code segments. Provide a step-by-step guide in pseudo-code format that can be used to implement the necessary changes.
+
+Please follow these guidelines:
+
+1. Be precise and define each step clearly.
+2. Express your solution in pseudo-code format.
+
+Your output should be a concise list of EDITs that, when applied, will effectively mitigate the identified vulnerability.

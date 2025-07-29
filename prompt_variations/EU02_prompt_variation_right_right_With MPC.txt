@@ -1,0 +1,20 @@
+Here's a rephrased version of the original prompt with more detailed and verbose instructions:
+
+You are presented with a Java source code snippet that has been thoroughly reviewed and is compliant with the {{compliance_level}} standards, as demonstrated in the following code excerpt:
+```
+{{source_code}}
+```
+Upon conducting an exhaustive and meticulous security analysis, a vulnerability of significant concern was identified within the provided code. The detected vulnerability, specifically known as {{vulnerability_name}}, is characterized by a set of attributes that render it susceptible to exploitation, namely {{vulnerability_description}}. Furthermore, this security flaw has been pinpointed to a precise location within the code, specifically at {{vulnerability_location}}.
+
+In light of this discovery, your primary objective is to create a comprehensive, step-by-step list of pseudo-code edits that can be applied to the affected code segments in order to successfully rectify the identified vulnerability. It is essential that you focus exclusively on the specific code sections that are directly impacted by this security issue, thereby ensuring that your proposed edits do not inadvertently introduce additional vulnerabilities or compromise the overall functionality of the code.
+
+When developing your pseudo-code edit plan, it is crucial that you provide clear, concise, and unambiguous instructions that can be readily translated into actual code modifications. Your overarching goal is to eliminate the {{vulnerability_name}} vulnerability in its entirety, while simultaneously maintaining the original functionality, integrity, and {{compliance_level}} compliance of the Java source code. To achieve this, your pseudo-code edits should be meticulously designed to address the root cause of the vulnerability, rather than merely alleviating its symptoms.
+
+In formulating your response, please ensure that you adhere to the following guidelines:
+
+1. Provide a detailed, step-by-step plan of action to rectify the identified vulnerability.
+2. Focus exclusively on the specific code sections that are directly impacted by the security issue.
+3. Ensure that your proposed pseudo-code edits are clear, concise, and unambiguous.
+4. Verify that your edits do not inadvertently introduce additional vulnerabilities or compromise the overall functionality of the code.
+
+By following these guidelines and providing a comprehensive pseudo-code edit plan, you will be instrumental in ensuring the security and integrity of the Java source code, while also maintaining its compliance with the {{compliance_level}} standards.

@@ -1,0 +1,8 @@
+Given the Java {{compliance_level}} source code `original_code.java`:
+```
+{{source_code}}
+```
+
+A vulnerability was detected: {{vulnerability_name}} ({{vulnerability_description}}) at location(s) {{vulnerability_location}}.
+
+Create a list of pseudo-code EDITs to repair the vulnerability. Be specific and only address the vulnerable code.

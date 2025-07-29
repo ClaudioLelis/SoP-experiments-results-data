@@ -1,0 +1,16 @@
+Considering the following Java {{compliance_level}} source code `original_code.java`:
+```
+{{source_code}}
+```
+
+A vulnerability was detected in this Java code file.
+Vulnerability Name: {{vulnerability_name}}
+Vulnerability Description: {{vulnerability_description}}
+    
+Location in Code, this (these) are the exact vulnerable location(s) in the source code: {{vulnerability_location}}
+
+
+Generate an action edit plan in pseudo-code format to repair only the vulnerability code:
+- Do not copy redundant parts of the code in the response.
+- Be specific and detail-oriented.
+- The output should be a list of EDITs required to fix the vulnerability.

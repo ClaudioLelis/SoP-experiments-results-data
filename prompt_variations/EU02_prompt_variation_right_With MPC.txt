@@ -1,0 +1,11 @@
+Here's a rephrased version of the original prompt with more detailed and verbose instructions:
+
+You are provided with a Java source code snippet that is compliant with the {{compliance_level}} standards, as shown below:
+```
+{{source_code}}
+```
+Upon conducting a thorough security analysis, a vulnerability was identified in the given code. The detected vulnerability is known as {{vulnerability_name}}, which is characterized by {{vulnerability_description}}. This security flaw is specifically located at {{vulnerability_location}} within the code.
+
+Your task is to create a comprehensive list of pseudo-code edits that can be applied to the affected code in order to successfully repair the identified vulnerability. Please focus exclusively on the specific code sections that are impacted by this security issue, and provide a step-by-step plan of action to rectify the problem.
+
+When developing your pseudo-code edit plan, ensure that you provide clear and concise instructions that can be easily translated into actual code modifications. Your primary objective is to eliminate the {{vulnerability_name}} vulnerability while maintaining the original functionality and compliance of the Java source code.
